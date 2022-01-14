@@ -1,0 +1,6 @@
+1. git init : Mensetup git untuk tracking project
+2. git add [nama file] : Menentukan file mana saja yang akan di commit
+3. git commit -m "Isi pesan" : Membuat sebuah commit dengan pesan tertentu
+4. git log : Melihat daftar commit yang sudah dibuat
+4a. git log --oneline : Melihat daftar commit dengan lebih simple
+5. git checkout [unique code] : Untuk melihat kode kita pada commit tertentu
